@@ -1,3 +1,3 @@
-module github.com/template
+module changeit
 
 go 1.20
